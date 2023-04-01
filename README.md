@@ -7,5 +7,5 @@ React ⌾ Next.js ⌾ Tailwind CSS ⌾ Headless UI ⌾ Sanity CMS
 <h3>🎓 Learning right now</h3>
 Unity ⌾ C# ⌾ Three.js ⌾ React Native
 
-<h3>🏖️ Just for fun/h3>
-Generative art with canvas & JS
+<h3>🏖️ Just for fun</h3>
+Generative art with canvas & JS [See my playground](https://playground.himynameishonza.com/generative-art)
