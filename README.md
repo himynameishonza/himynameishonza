@@ -8,4 +8,4 @@ React ⌾ Next.js ⌾ Tailwind CSS ⌾ Headless UI ⌾ Sanity CMS ⌾ Vercel
 Unity ⌾ C# ⌾ Three.js ⌾ React Native
 
 <h3>🏖️ Just for fun</h3>
-Generative art with canvas & JS [See my playground](https://playground.himynameishonza.com/generative-art)
+Generative art with canvas & JS ➡️ <a href="https://playground.himynameishonza.com/generative-art">Check out my playground</a>
