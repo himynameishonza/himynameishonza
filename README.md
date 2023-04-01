@@ -2,4 +2,4 @@
 <h3 align="center">A passionate frontend developer & UI designer from Czech republic</h3>
 <br/>
 <p align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzzGDm3TqPPCq0i2hUORT_L4ASxg8tzkvMtA&usqp=CAU" style="border-radius: 20px"/></p>
+<img src="https://technical.ly/wp-content/uploads/2015/12/17872393499_c2ebdd8f4c_k-e1449073427235.jpg"/></p>
