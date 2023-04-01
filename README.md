@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, my name is Honza</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himynameishonza" alt="himynameishonza" /></a> </p>
 
-- 🌱 I’m currently learning **Generative art & Three.js**
+- 🌱 I’m currently learning **Generative art, Three.js and Unity**
 
-- 👯 I’m looking to collaborate on **websites using Next.js or mobile apps using React Native**
+- 👯 I’m looking to collaborate on **websites using Next.js, React or mobile apps using React Native**
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **himynameishonza@gmail.com**
+- 📫 Reach me at **himynameishonza@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
