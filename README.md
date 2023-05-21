@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, my name is Honza</h1>
 <h3 align="center">A passionate frontend developer & UI designer from Czech republic</h3>
-<h5 align="center">Part of <a href="https://github.com/melody-labs">@melody-labs</a></h5>
+<h5 align="center">Member of <a href="https://github.com/melody-labs">@melody-labs</a></h5>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himynameishonza&" alt="himynameishonza" /></p>
 
 <p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
